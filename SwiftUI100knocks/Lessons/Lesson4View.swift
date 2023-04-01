@@ -5,6 +5,10 @@
 //  Created by Juri Ohto on 2023/04/02.
 //
 
+/*
+ 150✖︎150サイズに画像をリサイズし、丸く切り取り、黒い枠を付けて表示させてください。
+ */
+
 import SwiftUI
 
 struct Lesson4View: View {
