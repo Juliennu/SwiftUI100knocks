@@ -14,6 +14,7 @@
 		914F2F1F29D8719A00045440 /* SwiftUI100knocksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F2F1E29D8719A00045440 /* SwiftUI100knocksTests.swift */; };
 		914F2F2929D8719A00045440 /* SwiftUI100knocksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F2F2829D8719A00045440 /* SwiftUI100knocksUITests.swift */; };
 		914F2F2B29D8719A00045440 /* SwiftUI100knocksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F2F2A29D8719A00045440 /* SwiftUI100knocksUITestsLaunchTests.swift */; };
+		916BF27629D8913D00987A60 /* Lesson2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF27529D8913D00987A60 /* Lesson2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		914F2F2429D8719A00045440 /* SwiftUI100knocksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUI100knocksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		914F2F2829D8719A00045440 /* SwiftUI100knocksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100knocksUITests.swift; sourceTree = "<group>"; };
 		914F2F2A29D8719A00045440 /* SwiftUI100knocksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100knocksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		916BF27529D8913D00987A60 /* Lesson2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				914F2F0F29D8719900045440 /* Lesson1View.swift */,
+				916BF27529D8913D00987A60 /* Lesson2View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				914F2F1029D8719900045440 /* Lesson1View.swift in Sources */,
+				916BF27629D8913D00987A60 /* Lesson2View.swift in Sources */,
 				914F2F0E29D8719900045440 /* SwiftUI100knocksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
