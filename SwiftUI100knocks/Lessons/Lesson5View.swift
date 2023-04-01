@@ -18,15 +18,14 @@ struct Lesson5View: View {
     }
     var body: some View {
         HStack(spacing: 16) {
-            Spacer()
             image
             image
             image
             image
             image
-            Spacer()
         }
         .scaledToFit()
+        .padding(16)
     }
 }
 
