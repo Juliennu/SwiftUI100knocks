@@ -19,7 +19,7 @@ struct Lesson4View: View {
             .clipShape(Circle())
             .overlay(
                 Circle()
-                    .stroke(Color.black, lineWidth: 3)
+                    .stroke(Color.black, lineWidth: 4)
             )
     }
 }
