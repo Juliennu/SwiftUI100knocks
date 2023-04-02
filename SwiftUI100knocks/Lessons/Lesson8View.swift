@@ -47,6 +47,7 @@ struct Lesson8View: View {
                     }
             }
         }
+        .font(.headline)
     }
 }
 
