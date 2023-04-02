@@ -10,21 +10,31 @@
 import SwiftUI
 
 struct Lesson9View: View {
-    @State var text: String = "Egypt"
+    enum City: String {
+        case egypt = "Egypt"
+        case tokyo = "Tokyo"
+
+        var toggleSelf: Self {
+            switch self {
+            case .egypt:
+                return .tokyo
+            case .tokyo:
+                return .egypt
+            }
+        }
+    }
+
+    @State var city: City = .egypt
 
     var body: some View {
         VStack(spacing: 8) {
-            Text(text)
+            Text(city.rawValue)
             Button("Tap Me!!", action: changeText)
         }
     }
 
     func changeText() {
-        if text == "Egypt" {
-            text = "Tokyo"
-        } else if text == "Tokyo" {
-            text = "Egypt"
-        }
+        city = city.toggleSelf
     }
 }
 
