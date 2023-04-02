@@ -16,9 +16,8 @@ struct Lesson7View: View {
 
     var body: some View {
         Picker("Pokemon", selection: $selectedPokemon, content: {
-            ForEach(0..<pokemons.count) { index in
-                Text(pokemons[index])
-                    .tag(index)
+            ForEach(pokemons, id: \.self) { pokemon in
+                Text(pokemon)
             }
         })
         .pickerStyle(.wheel)
