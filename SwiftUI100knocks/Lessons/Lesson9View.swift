@@ -14,7 +14,7 @@ struct Lesson9View: View {
         case egypt = "Egypt"
         case tokyo = "Tokyo"
 
-        var toggleSelf: Self {
+        func toggleCity() -> Self {
             switch self {
             case .egypt:
                 return .tokyo
@@ -34,7 +34,7 @@ struct Lesson9View: View {
     }
 
     func changeText() {
-        city = city.toggleSelf
+        city = city.toggleCity()
     }
 }
 
