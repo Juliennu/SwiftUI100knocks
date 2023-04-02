@@ -31,6 +31,7 @@ struct Lesson9View: View {
             Text(city.rawValue)
             Button("Tap Me!!", action: changeText)
         }
+        .font(.headline)
     }
 
     func changeText() {
