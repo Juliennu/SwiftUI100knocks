@@ -25,6 +25,8 @@
 		916BF28B29D9980900987A60 /* Lesson10View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF28A29D9980900987A60 /* Lesson10View.swift */; };
 		916BF28D29DC5BAD00987A60 /* Lesson11_1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF28C29DC5BAD00987A60 /* Lesson11_1View.swift */; };
 		916BF28F29DC60FC00987A60 /* Lesson11_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */; };
+		916BF29129DC641900987A60 /* Lesson12_1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29029DC641900987A60 /* Lesson12_1View.swift */; };
+		916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29229DC663200987A60 /* Lesson12_2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +68,8 @@
 		916BF28A29D9980900987A60 /* Lesson10View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson10View.swift; sourceTree = "<group>"; };
 		916BF28C29DC5BAD00987A60 /* Lesson11_1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson11_1View.swift; sourceTree = "<group>"; };
 		916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson11_2View.swift; sourceTree = "<group>"; };
+		916BF29029DC641900987A60 /* Lesson12_1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_1View.swift; sourceTree = "<group>"; };
+		916BF29229DC663200987A60 /* Lesson12_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +168,8 @@
 				916BF28A29D9980900987A60 /* Lesson10View.swift */,
 				916BF28C29DC5BAD00987A60 /* Lesson11_1View.swift */,
 				916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */,
+				916BF29029DC641900987A60 /* Lesson12_1View.swift */,
+				916BF29229DC663200987A60 /* Lesson12_2View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -299,6 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				914F2F1029D8719900045440 /* Lesson1View.swift in Sources */,
+				916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */,
 				916BF27629D8913D00987A60 /* Lesson2View.swift in Sources */,
 				916BF28329D94A1A00987A60 /* Lesson7View.swift in Sources */,
 				916BF28729D954C100987A60 /* Lesson8View.swift in Sources */,
@@ -311,6 +318,7 @@
 				916BF28929D98BC400987A60 /* Lesson9View.swift in Sources */,
 				916BF28B29D9980900987A60 /* Lesson10View.swift in Sources */,
 				916BF27A29D89A5500987A60 /* Lesson4View.swift in Sources */,
+				916BF29129DC641900987A60 /* Lesson12_1View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
