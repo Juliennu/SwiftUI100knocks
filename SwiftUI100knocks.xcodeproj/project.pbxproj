@@ -27,6 +27,7 @@
 		916BF28F29DC60FC00987A60 /* Lesson11_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */; };
 		916BF29129DC641900987A60 /* Lesson12_1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29029DC641900987A60 /* Lesson12_1View.swift */; };
 		916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29229DC663200987A60 /* Lesson12_2View.swift */; };
+		916BF29529DC682E00987A60 /* Lesson13View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29429DC682E00987A60 /* Lesson13View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson11_2View.swift; sourceTree = "<group>"; };
 		916BF29029DC641900987A60 /* Lesson12_1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_1View.swift; sourceTree = "<group>"; };
 		916BF29229DC663200987A60 /* Lesson12_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_2View.swift; sourceTree = "<group>"; };
+		916BF29429DC682E00987A60 /* Lesson13View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 				916BF28E29DC60FC00987A60 /* Lesson11_2View.swift */,
 				916BF29029DC641900987A60 /* Lesson12_1View.swift */,
 				916BF29229DC663200987A60 /* Lesson12_2View.swift */,
+				916BF29429DC682E00987A60 /* Lesson13View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				916BF29529DC682E00987A60 /* Lesson13View.swift in Sources */,
 				914F2F1029D8719900045440 /* Lesson1View.swift in Sources */,
 				916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */,
 				916BF27629D8913D00987A60 /* Lesson2View.swift in Sources */,
