@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		913936D829F27B79007EE841 /* Lesson14View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 913936D729F27B79007EE841 /* Lesson14View.swift */; };
 		914F2F0E29D8719900045440 /* SwiftUI100knocksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F2F0D29D8719900045440 /* SwiftUI100knocksApp.swift */; };
 		914F2F1029D8719900045440 /* Lesson1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 914F2F0F29D8719900045440 /* Lesson1View.swift */; };
 		914F2F1229D8719A00045440 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 914F2F1129D8719A00045440 /* Assets.xcassets */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		913936D729F27B79007EE841 /* Lesson14View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14View.swift; sourceTree = "<group>"; };
 		914F2F0A29D8719900045440 /* SwiftUI100knocks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100knocks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		914F2F0D29D8719900045440 /* SwiftUI100knocksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100knocksApp.swift; sourceTree = "<group>"; };
 		914F2F0F29D8719900045440 /* Lesson1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson1View.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				916BF29029DC641900987A60 /* Lesson12_1View.swift */,
 				916BF29229DC663200987A60 /* Lesson12_2View.swift */,
 				916BF29429DC682E00987A60 /* Lesson13View.swift */,
+				913936D729F27B79007EE841 /* Lesson14View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				914F2F1029D8719900045440 /* Lesson1View.swift in Sources */,
 				916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */,
 				916BF27629D8913D00987A60 /* Lesson2View.swift in Sources */,
+				913936D829F27B79007EE841 /* Lesson14View.swift in Sources */,
 				916BF28329D94A1A00987A60 /* Lesson7View.swift in Sources */,
 				916BF28729D954C100987A60 /* Lesson8View.swift in Sources */,
 				916BF27E29D9397F00987A60 /* Lesson6View.swift in Sources */,
