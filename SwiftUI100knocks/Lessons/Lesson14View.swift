@@ -12,7 +12,7 @@ struct Lesson14View: View {
 
     var body: some View {
         Button("Push Me!") {
-            self.showingAlert = true
+            self.showingAlert.toggle()
         }
         .alert(isPresented: $showingAlert) {
             Alert(
