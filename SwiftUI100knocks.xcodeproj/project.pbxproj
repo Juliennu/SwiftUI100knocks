@@ -30,6 +30,7 @@
 		916BF29129DC641900987A60 /* Lesson12_1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29029DC641900987A60 /* Lesson12_1View.swift */; };
 		916BF29329DC663200987A60 /* Lesson12_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29229DC663200987A60 /* Lesson12_2View.swift */; };
 		916BF29529DC682E00987A60 /* Lesson13View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29429DC682E00987A60 /* Lesson13View.swift */; };
+		917C276429FB9FD40027E1C3 /* Lesson16View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917C276329FB9FD40027E1C3 /* Lesson16View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		916BF29029DC641900987A60 /* Lesson12_1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_1View.swift; sourceTree = "<group>"; };
 		916BF29229DC663200987A60 /* Lesson12_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12_2View.swift; sourceTree = "<group>"; };
 		916BF29429DC682E00987A60 /* Lesson13View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13View.swift; sourceTree = "<group>"; };
+		917C276329FB9FD40027E1C3 /* Lesson16View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson16View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 				916BF29429DC682E00987A60 /* Lesson13View.swift */,
 				913936D729F27B79007EE841 /* Lesson14View.swift */,
 				913936D929F281C8007EE841 /* Lesson15View.swift */,
+				917C276329FB9FD40027E1C3 /* Lesson16View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				916BF28329D94A1A00987A60 /* Lesson7View.swift in Sources */,
 				916BF28729D954C100987A60 /* Lesson8View.swift in Sources */,
 				916BF27E29D9397F00987A60 /* Lesson6View.swift in Sources */,
+				917C276429FB9FD40027E1C3 /* Lesson16View.swift in Sources */,
 				916BF28F29DC60FC00987A60 /* Lesson11_2View.swift in Sources */,
 				916BF27829D897E500987A60 /* Lesson3View.swift in Sources */,
 				916BF28D29DC5BAD00987A60 /* Lesson11_1View.swift in Sources */,
