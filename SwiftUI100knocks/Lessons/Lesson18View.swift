@@ -19,7 +19,7 @@ struct Lesson18View: View {
                 HStack(spacing: 16) {
                     Image("pyramid")
                         .resizable()
-                        .aspectRatio(contentMode: .fill)
+                        .scaledToFill()
                         .frame(width: 44, height: 44)
                     Text("Tap Me!!")
                 }
