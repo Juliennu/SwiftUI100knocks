@@ -5,6 +5,8 @@
 //  Created by Juri Ohto on 2023/04/28.
 //
 
+// ボタン1が押されたらアラート1を、ボタン2が押されたらアラート2を表示してください
+
 import SwiftUI
 
 struct Lesson16View: View {
