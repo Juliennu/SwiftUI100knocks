@@ -5,6 +5,11 @@
 //  Created by Juri Ohto on 2023/05/12.
 //
 
+/*
+ Buttonが押されたら文字を変えてください。
+ Button内の画像やテキストの色を変えないでください。
+ */
+
 import SwiftUI
 
 struct Lesson18View: View {

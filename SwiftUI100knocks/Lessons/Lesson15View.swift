@@ -5,6 +5,8 @@
 //  Created by Juri Ohto on 2023/04/21.
 //
 
+// iOS15以降で使用できる方法でアラートを表示させてください。
+
 import SwiftUI
 
 struct Lesson15View: View {
