@@ -32,6 +32,7 @@
 		916BF29529DC682E00987A60 /* Lesson13View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29429DC682E00987A60 /* Lesson13View.swift */; };
 		917C276429FB9FD40027E1C3 /* Lesson16View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917C276329FB9FD40027E1C3 /* Lesson16View.swift */; };
 		917C276629FBA3140027E1C3 /* Lesson17View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917C276529FBA3140027E1C3 /* Lesson17View.swift */; };
+		91E2BF072A0E290600991706 /* Lesson18View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E2BF062A0E290600991706 /* Lesson18View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		916BF29429DC682E00987A60 /* Lesson13View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13View.swift; sourceTree = "<group>"; };
 		917C276329FB9FD40027E1C3 /* Lesson16View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson16View.swift; sourceTree = "<group>"; };
 		917C276529FBA3140027E1C3 /* Lesson17View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson17View.swift; sourceTree = "<group>"; };
+		91E2BF062A0E290600991706 /* Lesson18View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson18View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				913936D929F281C8007EE841 /* Lesson15View.swift */,
 				917C276329FB9FD40027E1C3 /* Lesson16View.swift */,
 				917C276529FBA3140027E1C3 /* Lesson17View.swift */,
+				91E2BF062A0E290600991706 /* Lesson18View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				917C276429FB9FD40027E1C3 /* Lesson16View.swift in Sources */,
 				916BF28F29DC60FC00987A60 /* Lesson11_2View.swift in Sources */,
 				916BF27829D897E500987A60 /* Lesson3View.swift in Sources */,
+				91E2BF072A0E290600991706 /* Lesson18View.swift in Sources */,
 				917C276629FBA3140027E1C3 /* Lesson17View.swift in Sources */,
 				916BF28D29DC5BAD00987A60 /* Lesson11_1View.swift in Sources */,
 				914F2F0E29D8719900045440 /* SwiftUI100knocksApp.swift in Sources */,
