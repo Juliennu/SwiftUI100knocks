@@ -24,10 +24,10 @@ struct Lesson18View: View {
                     Text("Tap Me!!")
                 }
             }
-            .accentColor(.black)
             .padding()
             .border(.gray, width: 2)
         }
+        .buttonStyle(.plain)
     }
 }
 
