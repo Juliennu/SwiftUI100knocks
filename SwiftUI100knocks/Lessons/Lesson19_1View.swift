@@ -24,9 +24,9 @@ struct Lesson19_1View: View {
                 .textFieldStyle(.roundedBorder)
             Button("Show Sheet") {
                 guard Int(text) != nil else {
-                    return isShowingAlert.toggle()
+                    return self.isShowingAlert.toggle()
                 }
-                isShowingSheet.toggle()
+                self.isShowingSheet.toggle()
             }
             .sheet(isPresented: $isShowingSheet) {
                 if let number = Int(text) {
