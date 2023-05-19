@@ -13,7 +13,7 @@
 import SwiftUI
 
 struct Lesson18View: View {
-    @State private var title: String = "Pyramid"
+    @State private var title = "Pyramid"
 
     var body: some View {
         VStack(spacing: 24) {
