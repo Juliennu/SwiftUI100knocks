@@ -20,6 +20,7 @@ struct Lesson19_1View: View {
     var body: some View {
         VStack(spacing: 16) {
             TextField("Input Number", text: $text)
+                .padding()
                 .textFieldStyle(.roundedBorder)
             Button("Show Sheet") {
                 guard Int(text) != nil else {
@@ -38,7 +39,6 @@ struct Lesson19_1View: View {
                 Text("Please input numbers.")
             }
         }
-        .padding()
     }
 }
 
