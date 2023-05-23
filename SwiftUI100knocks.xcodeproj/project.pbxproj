@@ -32,6 +32,7 @@
 		916BF29529DC682E00987A60 /* Lesson13View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 916BF29429DC682E00987A60 /* Lesson13View.swift */; };
 		917C276429FB9FD40027E1C3 /* Lesson16View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917C276329FB9FD40027E1C3 /* Lesson16View.swift */; };
 		917C276629FBA3140027E1C3 /* Lesson17View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917C276529FBA3140027E1C3 /* Lesson17View.swift */; };
+		91E2229C2A1764D30062A9D8 /* Lesson20View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E2229B2A1764D30062A9D8 /* Lesson20View.swift */; };
 		91E2BF072A0E290600991706 /* Lesson18View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E2BF062A0E290600991706 /* Lesson18View.swift */; };
 		91E2BF092A0E31BA00991706 /* Lesson19_1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E2BF082A0E31BA00991706 /* Lesson19_1View.swift */; };
 		91E2BF0B2A0E33AF00991706 /* Lesson19_2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E2BF0A2A0E33AF00991706 /* Lesson19_2View.swift */; };
@@ -83,6 +84,7 @@
 		916BF29429DC682E00987A60 /* Lesson13View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13View.swift; sourceTree = "<group>"; };
 		917C276329FB9FD40027E1C3 /* Lesson16View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson16View.swift; sourceTree = "<group>"; };
 		917C276529FBA3140027E1C3 /* Lesson17View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson17View.swift; sourceTree = "<group>"; };
+		91E2229B2A1764D30062A9D8 /* Lesson20View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson20View.swift; sourceTree = "<group>"; };
 		91E2BF062A0E290600991706 /* Lesson18View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson18View.swift; sourceTree = "<group>"; };
 		91E2BF082A0E31BA00991706 /* Lesson19_1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson19_1View.swift; sourceTree = "<group>"; };
 		91E2BF0A2A0E33AF00991706 /* Lesson19_2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson19_2View.swift; sourceTree = "<group>"; };
@@ -194,6 +196,7 @@
 				91E2BF062A0E290600991706 /* Lesson18View.swift */,
 				91E2BF082A0E31BA00991706 /* Lesson19_1View.swift */,
 				91E2BF0A2A0E33AF00991706 /* Lesson19_2View.swift */,
+				91E2229B2A1764D30062A9D8 /* Lesson20View.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 				91E2BF072A0E290600991706 /* Lesson18View.swift in Sources */,
 				917C276629FBA3140027E1C3 /* Lesson17View.swift in Sources */,
 				916BF28D29DC5BAD00987A60 /* Lesson11_1View.swift in Sources */,
+				91E2229C2A1764D30062A9D8 /* Lesson20View.swift in Sources */,
 				914F2F0E29D8719900045440 /* SwiftUI100knocksApp.swift in Sources */,
 				916BF27C29D89CFC00987A60 /* Lesson5View.swift in Sources */,
 				916BF28929D98BC400987A60 /* Lesson9View.swift in Sources */,
